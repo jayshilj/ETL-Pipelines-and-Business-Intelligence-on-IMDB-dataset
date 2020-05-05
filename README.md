@@ -27,9 +27,9 @@ Powerbi Report:- https://drive.google.com/drive/u/3/folders/1H17XUFnp5ZuDNIgjNpx
 
 ![](Images/ETL_Pipeline.png)
 
-![](Images/Time-Synchronized_ETL pipelines.png)
+![](Images/Time-Synchronized_ETL%20pipelines.png)
 
-![](Images/finalmaster Job.png)
+![](Images/finalmaster%20Job.png)
 
 # PowerBI Jobs Sample
 
