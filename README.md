@@ -6,7 +6,7 @@ Talend Real-Time Data Platform 7.1
 SQL server Developer Edition
 Microsoft SQL server Management Studio
 Tableau
-Microsoft PowerBI
+Microsoft PowerBI 
 
 1. Run the following scripts in SSMS to setup the staging database
 
