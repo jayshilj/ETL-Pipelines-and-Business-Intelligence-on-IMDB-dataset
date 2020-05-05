@@ -25,18 +25,20 @@ Powerbi Report:- https://drive.google.com/drive/u/3/folders/1H17XUFnp5ZuDNIgjNpx
 
 # Talend Jobs Sample
 
-![](Images/everyday%20cases%20growth%20in%20spain.png)
+![](Images/ETL_Pipeline.png)
 
-![](Images/everyday%20cases%20growth%20in%20spain.png)
+![](Images/Time-Synchronized_ETL pipelines.png)
+
+![](Images/finalmaster Job.png)
 
 # PowerBI Jobs Sample
 
-![](Images/everyday%20cases%20growth%20in%20spain.png)
+![](Images/3LayerDepthBusinessViewPowerBI.png)
 
-![](Images/everyday%20cases%20growth%20in%20spain.png)
+![](Images/DarkTemplateWorldGrossAnalysis.png)
+
+![](Images/Trend_Analysis_GrossComparision.png)
 
 # Tableau Jobs Sample
 
-![](Images/everyday%20cases%20growth%20in%20spain.png)
-
-![](Images/everyday%20cases%20growth%20in%20spain.png)
+![](Images/AdvanceTableau_BoxOfficeAnalysis.png)
