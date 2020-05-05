@@ -41,4 +41,4 @@ Powerbi Report:- https://drive.google.com/drive/u/3/folders/1H17XUFnp5ZuDNIgjNpx
 
 # Tableau Jobs Sample
 
-![](Images/AdvanceTableau_BoxOfficeAnalysis.png)
+![](Images/AdvanceTableau_BoxOfficeAnalysis.jpg)
