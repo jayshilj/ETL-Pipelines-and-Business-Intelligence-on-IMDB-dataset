@@ -22,3 +22,21 @@ stg_ml_tables.sql
 Tableau Dashboards:- https://public.tableau.com/profile/jayshil.jain#!/vizhome/imdb_proj/Dashboard1 
 
 Powerbi Report:- https://drive.google.com/drive/u/3/folders/1H17XUFnp5ZuDNIgjNpxftKLsljYpRR5V
+
+# Talend Jobs Sample
+
+![](Images/everyday%20cases%20growth%20in%20spain.png)
+
+![](Images/everyday%20cases%20growth%20in%20spain.png)
+
+# PowerBI Jobs Sample
+
+![](Images/everyday%20cases%20growth%20in%20spain.png)
+
+![](Images/everyday%20cases%20growth%20in%20spain.png)
+
+# Tableau Jobs Sample
+
+![](Images/everyday%20cases%20growth%20in%20spain.png)
+
+![](Images/everyday%20cases%20growth%20in%20spain.png)
