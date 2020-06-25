@@ -1,5 +1,8 @@
 # ETL-Pipelines-and-Business-Intelligence-on-IMDB-dataset
 
+## Medium Article
+https://medium.com/@jayshil97/understanding-data-pipeline-integration-and-business-intelligence-efdd0016ebe4
+
 To setup this project install the following softwares
 
 Talend Real-Time Data Platform 7.1
