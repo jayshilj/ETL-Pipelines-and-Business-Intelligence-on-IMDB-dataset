@@ -26,6 +26,10 @@ Tableau Dashboards:- https://public.tableau.com/profile/jayshil.jain#!/vizhome/i
 
 Powerbi Report:- https://drive.google.com/drive/u/3/folders/1H17XUFnp5ZuDNIgjNpxftKLsljYpRR5V
 
+# Data Warehouse using ER Studio
+
+![](Images/IMDB-ER-Diagram.png)
+
 # Talend Jobs Sample
 
 ![](Images/ETL_Pipeline.png)
