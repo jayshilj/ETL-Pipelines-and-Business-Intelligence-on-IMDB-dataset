@@ -6,7 +6,7 @@ https://medium.com/@jayshil97/understanding-data-pipeline-integration-and-busine
 To setup this project install the following softwares
 
 Talend Real-Time Data Platform 7.1
-SQL server Developer Edition
+SQL Server Developer Edition
 Microsoft SQL server Management Studio
 Tableau
 Microsoft PowerBI 
